@@ -6,4 +6,10 @@
 
 https://www.c-sharpcorner.com/UploadFile/b1df45/unit-of-work-in-repository-pattern/
 
-4. Dodaj implementację pobierania, zapisywania oraz edytowania klientów z wykorzystaniem bazy danych. Skorzystaj z ADO.NET.
+4. Uruchom skrypt Create Bicycle Shop Database na lokalnej bazie z poziomu visual studio.​
+
+5. Przypomnij sobie podstawy SQL - plik Bicycle Shop Database Queries​
+
+6. Do aplikacji zaimplementowanej w punkcie 1 dodaj implementację pobierania, zapisywania oraz edytowania klientów z wykorzystaniem bazy danych. Skorzystaj z ADO.NET.
+
+7. Poszukaj informacji na temat ADO.NET Entity Framework i spróbuj zamienić ADO.NET SqlClient na użycie Entity Framework.
