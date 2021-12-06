@@ -14,4 +14,4 @@ https://www.c-sharpcorner.com/UploadFile/b1df45/unit-of-work-in-repository-patte
 
 7. Poszukaj informacji na temat ADO.NET Entity Framework i spróbuj zamienić ADO.NET SqlClient na użycie Entity Framework.
 
-8. Dodaj metodę usuwania klienta i z pliku i z bazy danych.
+8. Dodaj metody DeleteCustomer.
