@@ -13,3 +13,5 @@ https://www.c-sharpcorner.com/UploadFile/b1df45/unit-of-work-in-repository-patte
 6. Do aplikacji zaimplementowanej w punkcie 1 dodaj implementację pobierania, zapisywania oraz edytowania klientów z wykorzystaniem bazy danych. Skorzystaj z ADO.NET.
 
 7. Poszukaj informacji na temat ADO.NET Entity Framework i spróbuj zamienić ADO.NET SqlClient na użycie Entity Framework.
+
+8. Dodaj metodę usuwania klienta i z pliku i z bazy danych.
